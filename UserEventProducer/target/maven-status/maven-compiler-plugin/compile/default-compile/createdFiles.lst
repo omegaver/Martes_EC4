@@ -1,0 +1,4 @@
+com\example\usereventproducer\service\UserEventProducerService.class
+com\example\usereventproducer\model\UserEvent.class
+com\example\usereventproducer\controller\UserEventController.class
+com\example\usereventproducer\UserEventProducerApplication.class
